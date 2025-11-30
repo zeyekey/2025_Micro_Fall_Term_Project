@@ -1,0 +1,1 @@
+# (Sahibi: ZEYNEP) - Ana bağlantı sınıfı (Base Class)

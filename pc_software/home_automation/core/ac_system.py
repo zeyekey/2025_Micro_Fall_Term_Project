@@ -1,0 +1,1 @@
+# (Sahibi: ZEYNEP) - Klima sistemi abstract sınıfı

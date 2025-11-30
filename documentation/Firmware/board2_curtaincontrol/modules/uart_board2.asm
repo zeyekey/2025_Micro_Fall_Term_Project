@@ -1,0 +1,1 @@
+;(Sahibi: ZEYNEP) - PC komutlarını sensörlere dağıtma

@@ -1,0 +1,1 @@
+# (Sahibi: CİHAN) - PySerial ile fiziksel port yönetimi

@@ -1,0 +1,1 @@
+(Sahibi: NAZLI) - %0-%100 durum belleği yönetimi

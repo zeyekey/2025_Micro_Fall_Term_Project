@@ -1,0 +1,1 @@
+# --- ZEYNEP'İN ALANI (API Mimarisi) ---

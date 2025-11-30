@@ -1,0 +1,1 @@
+# (Sahibi: ZEYNEP) - Hata sınıfları

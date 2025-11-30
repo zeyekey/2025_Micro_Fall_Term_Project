@@ -1,0 +1,1 @@
+# (Sahibi: ZEYNEP) - Perde sistemi abstract sınıfı

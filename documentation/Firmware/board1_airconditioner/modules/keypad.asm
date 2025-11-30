@@ -1,0 +1,1 @@
+; (Sahibi: OZAN) - Tuş takımı tarama ve Interrupt

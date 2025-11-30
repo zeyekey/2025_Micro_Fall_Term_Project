@@ -1,0 +1,1 @@
+# (Sahibi: ZEYNEP) - Tüm komut setleri ve byte formatları

@@ -1,0 +1,1 @@
+; (Sahibi: HAKAN) - Ana entegrasyon dosyası

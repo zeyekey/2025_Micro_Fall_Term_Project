@@ -1,0 +1,1 @@
+# --- CİHAN'IN ALANI (İletişim Katmanı) ---

@@ -1,0 +1,1 @@
+;(Sahibi: CİHAN) - LDR ve Potansiyometre okuma

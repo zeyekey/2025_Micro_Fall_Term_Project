@@ -1,0 +1,1 @@
+;(Sahibi: SÜLEYMAN NURİ) - ADC, Isıtıcı/Soğutucu mantığı

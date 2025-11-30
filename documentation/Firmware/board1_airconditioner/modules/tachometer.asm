@@ -1,0 +1,1 @@
+; (Sahibi: SÜLEYMAN NURİ) - Fan hızı (Timer1) ölçümü

@@ -1,0 +1,1 @@
+; (Sahibi: OZAN) - 10-50 derece sınır kontrolü

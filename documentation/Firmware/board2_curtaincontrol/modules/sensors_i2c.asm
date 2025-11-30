@@ -1,0 +1,1 @@
+;(Sahibi: CİHAN) - BMP180 (Basınç/Sıcaklık) okuma
